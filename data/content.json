@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "title": "Mad Car Arena",
+    "description": "Buckle up for a wild solo ride! In Mad Car Arena, you'll take control of a stunt-ready truck and race through vibrant tracks filled with jumps, obstacles, and tight turns. Test your reflexes, master the controls, and push your limits in this high-speed arena of chaos. How far can you go before crashing?",
+    "buttonText": "Play Now"
+  },
+  "features": [
+    {
+      "icon": "🏎️",
+      "title": "Stunt-Ready Trucks",
+      "description": "Control powerful trucks designed for extreme stunts and high-speed racing through challenging arena environments."
+    },
+    {
+      "icon": "🎯",
+      "title": "Precise Controls",
+      "description": "Master responsive controls that give you complete command over your vehicle's movement and stunt capabilities."
+    },
+    {
+      "icon": "🏁",
+      "title": "Dynamic Tracks",
+      "description": "Race through vibrant tracks filled with jumps, obstacles, and tight turns that test your driving skills."
+    },
+    {
+      "icon": "⚡",
+      "title": "High-Speed Action",
+      "description": "Experience intense racing action with high-speed gameplay that pushes your reflexes to the limit."
+    },
+    {
+      "icon": "🎮",
+      "title": "Arena Challenges",
+      "description": "Face unique challenges in specially designed arenas that combine racing and stunt elements."
+    },
+    {
+      "icon": "🏆",
+      "title": "Skill Progression",
+      "description": "Improve your driving skills and unlock new tracks as you master increasingly difficult challenges."
+    }
+  ],
+  "howToPlay": [
+    {
+      "title": "Basic Controls",
+      "description": "Learn the fundamental controls to navigate your stunt truck through the arena.",
+      "steps": [
+        "Use arrow keys or WASD to control your truck",
+        "Press Spacebar for boost acceleration",
+        "Hold Shift for precise steering control",
+        "Use C to change camera view"
+      ]
+    },
+    {
+      "title": "Stunt Techniques",
+      "description": "Master advanced stunt techniques to maximize your score and complete challenging tracks.",
+      "steps": [
+        "Time your jumps perfectly for maximum air",
+        "Use ramps strategically to reach high areas",
+        "Master drifting around sharp corners",
+        "Combine moves for spectacular stunt sequences"
+      ]
+    },
+    {
+      "title": "Arena Strategy",
+      "description": "Develop strategies to conquer the most challenging arena environments and obstacles.",
+      "steps": [
+        "Study track layouts before attempting runs",
+        "Plan your route to avoid deadly obstacles",
+        "Use boost at the right moments for maximum effect",
+        "Practice difficult sections repeatedly"
+      ]
+    }
+  ],
+  "track": {
+    "features": [
+      {
+        "icon": "🏭",
+        "text": "Industrial Zones - Navigate through complex factory environments with moving obstacles"
+      },
+      {
+        "icon": "🏢",
+        "text": "Urban Arenas - Race through city streets with tight corners and traffic challenges"
+      },
+      {
+        "icon": "🏟️",
+        "text": "Stadium Circuits - High-speed tracks with massive jumps and stunt opportunities"
+      },
+      {
+        "icon": "🌆",
+        "text": "Night Racing - Experience the thrill of racing under neon lights and urban atmosphere"
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "name": "Alex Johnson",
+      "text": "Incredible game! The stunt mechanics are perfectly balanced and the arena designs are absolutely brilliant. I've been playing for hours trying to perfect my runs."
+    },
+    {
+      "name": "Sarah Chen",
+      "text": "Perfect for quick gaming sessions. The controls are responsive and the physics feel realistic. Love how each arena presents unique challenges."
+    },
+    {
+      "name": "Mike Rodriguez",
+      "text": "Best arena racing game I've played online. The stunt system is addictive and the track variety keeps me coming back for more."
+    },
+    {
+      "name": "Emma Wilson",
+      "text": "Great game for both casual and hardcore players. The difficulty progression is well-balanced and the stunt mechanics add strategic depth."
+    },
+    {
+      "name": "David Kim",
+      "text": "Amazing attention to detail in the vehicle physics. The different arena environments really change how you need to approach each race."
+    },
+    {
+      "name": "Lisa Thompson",
+      "text": "Addictive gameplay with smooth performance. The arena variety keeps things fresh and the stunt system is incredibly satisfying."
+    }
+  ],
+  "gameUpdates": [
+    {
+      "title": "New Industrial Arena Released",
+      "description": "Experience the thrill of racing through a massive factory complex with moving obstacles, conveyor belts, and industrial hazards.",
+      "date": "April 15, 2025",
+      "fullContent": "We're excited to announce the release of our newest arena - the Industrial Zone! This massive factory complex features moving obstacles, conveyor belts, and industrial hazards that will test your driving skills like never before. The arena includes multiple levels with increasing difficulty, from basic obstacle courses to complex stunt sequences. New power-ups have been added specifically for this arena, including industrial boosters and safety nets. The Industrial Zone also introduces our new dynamic lighting system, creating an immersive atmosphere with flickering neon lights and industrial shadows.",
+      "image": "car_assest/new_track1.jpg"
+    },
+    {
+      "title": "Enhanced Stunt System Update",
+      "description": "Major improvements to the stunt mechanics with new trick combinations, better physics, and more rewarding scoring system.",
+      "date": "June 8, 2025",
+      "fullContent": "This update completely revamps our stunt system with new trick combinations, improved physics, and a more rewarding scoring system. Players can now chain together multiple stunts for massive point multipliers, and we've added new trick types including barrel rolls, backflips, and precision landings. The physics engine has been optimized for more realistic vehicle behavior during stunts, making successful tricks feel more satisfying. We've also introduced a new stunt tutorial system to help players master advanced techniques.",
+      "image": "car_assest/new_track2.jpg"
+    },
+    {
+      "title": "Night Racing Mode Added",
+      "description": "Race under the neon lights with our new night mode featuring enhanced lighting effects and atmospheric racing environments.",
+      "date": "April 22, 2025",
+      "fullContent": "Experience the thrill of racing under the neon lights with our new Night Racing Mode! This update adds atmospheric night environments to all existing arenas with enhanced lighting effects, neon signs, and dynamic shadows. The night mode includes special challenges that are only available after dark, and we've added new vehicle skins that glow in the darkness. The lighting system has been completely overhauled to create an immersive urban racing experience with realistic reflections and atmospheric effects.",
+      "image": "car_assest/new_track3.jpg"
+    }
+  ],
+  "trailDiaries": [
+    {
+      "title": "Behind the Scenes: Arena Design Process",
+      "description": "Take a look at how we design and create the challenging arenas that players love to race through.",
+      "date": "June 12, 2025",
+      "fullContent": "Creating engaging arenas for Mad Car Arena involves a complex process that combines artistic vision with technical precision. Our design team starts with concept sketches and mood boards to establish the visual style and atmosphere of each arena. We then create detailed 3D models and implement realistic physics interactions. Each arena goes through multiple iterations where we test gameplay flow, difficulty balance, and visual appeal. The Industrial Zone arena took over four months to perfect, with countless adjustments to obstacle placement, stunt opportunities, and visual effects. We also work closely with our physics team to ensure that each arena feels unique while maintaining consistent gameplay mechanics.",
+      "image": "car_assest/new_track4.jpg"
+    },
+    {
+      "title": "Community Spotlight: Stunt Masters",
+      "description": "Meet some of the most skilled players in our community and learn their strategies for mastering Mad Car Arena.",
+      "date": "April 30, 2025",
+      "fullContent": "This month we're highlighting three exceptional players who have mastered the art of stunt racing. StuntMaster_92 has perfected the art of chain stunts, achieving record scores on technical arenas. DriftQueen has revolutionized how players approach stunt combinations, creating tutorials that have helped thousands of players improve their skills. And ArenaKing has set unbeatable records on our most challenging industrial tracks. We interviewed each player about their strategies, favorite arenas, and tips for new players. Their insights have been invaluable in helping us understand what makes our game so engaging.",
+      "image": "car_assest/new_track5.jpg"
+    },
+    {
+      "title": "Development Update: Future Features",
+      "description": "Get a sneak peek at upcoming features and improvements planned for Mad Car Arena in the coming months.",
+      "date": "June 25, 2025",
+      "fullContent": "We're excited to share our development roadmap for the next six months! Q1 2025 will bring a comprehensive multiplayer system allowing players to race against friends in real-time. We're also working on a tournament system with seasonal competitions and prizes. Q2 will introduce a story mode with narrative-driven missions and character progression. The story will follow a rookie stunt driver's journey to becoming an arena legend. We're also planning major visual upgrades including improved lighting systems, particle effects, and more detailed vehicle models. Community feedback has been crucial in shaping these features.",
+      "image": "car_assest/new_track6.jpg"
+    }
+  ],
+  "contact": {
+    "email": "contact@playdashorbit.com",
+    "phone": "+61 454 676 812",
+    "address": "21 Central Street, Alice Springs NT 0870, Australia"
+  }
+}
